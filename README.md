@@ -28,6 +28,7 @@
 ```
 Currently into sparse models, self-hosted cloud infra and whatever rabbit hole I fall into next.
 I work with rust, typescript, python and go using claude-code and AI agents.
+I hold my agents to OWASP, STRIDE and secure-by-design principles before any code ships.
 ```
 
 <br>
